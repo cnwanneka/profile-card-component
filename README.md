@@ -2,7 +2,7 @@ Profile card component
 
 Description
 
-This application consists of a profile card. 
+A profile card component is a user interface element commonly used in web and mobile applications to display brief information about an individual or a user. It is designed to provide a compact and visually appealing summary of someone's profile, typically including their profile picture or avatar, name, job title or description and additional relevant details. 
 
 The technologies used are HTML and CSS.
 
