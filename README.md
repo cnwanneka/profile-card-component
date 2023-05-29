@@ -8,6 +8,8 @@ The specific details and design of a profile card component can vary based on th
 
 It can be used in various web applications or websites to showcase user profiles or team member details.
 
+The goal is to provide a quick overview of essential information while maintaining a visually appealing and intuitive design.
+
 The technologies used are HTML and CSS.
 
 Designing this profile card component was helpful in keeping my CSS skills up to date.
