@@ -12,7 +12,7 @@ The goal is to provide a quick overview of essential information while maintaini
 
 It often employs visual elements such as colors, typography, and icons to create an aesthetically pleasing and user-friendly presentation.
 
-The technologies used are HTML and CSS.
+The technologies used for this application are HTML and CSS.
 
 Designing this profile card component was helpful in keeping my CSS skills up to date.
 
