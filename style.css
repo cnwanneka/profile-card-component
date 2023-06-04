@@ -29,3 +29,7 @@ body {
     border: 4px solid white;
     margin-top: -50px;
 }
+.content h2{
+    color: hsl(229, 23%, 23%);
+    font-size: 20px;
+}
