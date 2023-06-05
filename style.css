@@ -32,4 +32,10 @@ body {
 .content h2{
     color: hsl(229, 23%, 23%);
     font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.content h2 span {
+    color: hsl(227, 10%, 46%);
+    font-weight: 400;
 }
