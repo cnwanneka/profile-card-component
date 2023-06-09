@@ -47,5 +47,12 @@ body {
     display: flex;
     justify-content: space-between;
     border-top: 1px solid hsla(227, 10%, 46%, 0.4);
-    padding: 25px 50px 
+    padding: 25px 50px;
+    margin-top: 20px; 
+}
+.footer p.num {
+    font-size: 15px;
+    color: hsl(229, 23%, 23%);
+    font-weight: 700;
+    margin-bottom: 5px;
 }
