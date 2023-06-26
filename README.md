@@ -18,3 +18,5 @@ Designing this profile card component was useful in keeping my CSS skills sharp 
 
 The URL of the deployed application is https://cnwanneka.github.io/profile-card-component/
 
+One of the challenges that I faced was getting the right font size but some of the text sizes were provided in the readme file.
+
