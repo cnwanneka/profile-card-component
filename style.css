@@ -10,6 +10,7 @@ body {
     display: flex;
     align-items: center;
     min-height: 100vh;
+    background-image: url(images/bg-pattern-top.svg), rl;
 }
 .container {
     margin: 0 auto;
@@ -46,9 +47,9 @@ body {
 .footer {
     display: flex;
     justify-content: space-between;
-    border-top: 1px solid hsla(227, 10%, 46%, 0.4);
+    border-top: 1px solid hsla(227, 10%, 46%, 0.2);
     padding: 25px 50px;
-    margin-top: 20px; 
+    margin-top: 30px; 
 }
 .footer p.num {
     font-size: 15px;
