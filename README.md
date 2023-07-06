@@ -6,9 +6,9 @@ A profile card component is a user interface element commonly used in web and mo
 
 The specific details and design of a profile card component can vary based on the application or platform where it is used.
 
-It can be used in various web applications or websites to showcase user profiles or team member details.
-
 The goal is to provide a quick overview of essential information while maintaining a visually appealing and intuitive design.
+
+It can be used in various web applications or websites to showcase user profiles or team member details.
 
 It often employs visual elements such as colors, typography, and icons to create an aesthetically pleasing and user-friendly presentation.
 
