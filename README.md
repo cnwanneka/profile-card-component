@@ -16,7 +16,8 @@ The technologies used for this application are HTML and CSS.
 
 I was motivated to design this profile card component as it enabled me to keep my CSS skills sharp and up to date.
 
-The URL of the deployed application is https://cnwanneka.github.io/profile-card-component/
+The URL of the deployed application is 
+https://cnwanneka.github.io/profile-card-component/
 
 One of the challenges that I faced was getting the right font size but some of the text sizes were provided in the readme file.
 
