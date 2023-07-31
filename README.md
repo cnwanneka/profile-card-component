@@ -25,7 +25,11 @@ https://cnwanneka.github.io/profile-card-component/
 
 One of the challenges that I faced was getting the right font size but some of the text sizes were provided in the readme file.
 
-I did some research on google for ideas on getting the layout right. This helped me on places that I had issues.
+I did some research on google for ideas on getting the layout right. This helped me on areas that I had issues.
+
+
+
+
 
 
 
