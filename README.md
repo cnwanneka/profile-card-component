@@ -1,6 +1,6 @@
 Profile card component
 
-Description
+Description:
 
 A profile card component is a user interface element commonly used in web and mobile applications to display brief information about an individual or a user. It 
 
