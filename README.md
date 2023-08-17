@@ -16,7 +16,7 @@ The goal is to provide a quick overview of essential information while maintaini
 
 It often employs visual elements such as colors, typography, and icons to create an aesthetically pleasing and user-friendly presentation.
 
-I was motivated to design this profile card component as it enabled me to keep my CSS skills sharp and up to date.
+I was inclined and motivated to design this profile card component as it enabled me to keep my CSS skills sharp and up to date.
 
 The technologies that I used to build this application are HTML and CSS.
 
