@@ -27,7 +27,7 @@ One of the challenges that I faced was getting the right font size but fortunate
 
 I did some research on google for ideas on getting the layout right. This helped me to resolve the areas that I had issues.
 
-I am grateful to my mentors for the support that they provided to me during the creation of this project.
+I am grateful to my mentors for the support that they provided to me during the creation and designing of this project.
 
 
 
