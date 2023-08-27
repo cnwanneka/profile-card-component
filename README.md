@@ -23,7 +23,7 @@ The technologies that I used to build this application are HTML and CSS.
 The URL of the deployed application is 
 https://cnwanneka.github.io/profile-card-component/
 
-One of the challenges that I faced was getting the right font size but fortunately, the font sizes were provided in the starter code.
+One of the challenges that I faced was getting the right font size, but fortunately, the font sizes were provided in the starter code.
 
 I did some research on google for ideas on getting the layout right. This helped me to resolve the areas that I had issues.
 
