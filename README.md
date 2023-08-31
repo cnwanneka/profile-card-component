@@ -25,7 +25,7 @@ https://cnwanneka.github.io/profile-card-component/
 
 One of the challenges that I faced was getting the right font sizes, but fortunately, the font sizes were provided in the starter code.
 
-I did some research on google for ideas on getting the layout right. This helped me to resolve the areas that I had issues.
+I did some research on google for tips and ideas on getting the layout right. This helped me to resolve the areas that I had issues.
 
 I am grateful to my mentors for the support that they provided to me during the creation and designing of this project.
 
